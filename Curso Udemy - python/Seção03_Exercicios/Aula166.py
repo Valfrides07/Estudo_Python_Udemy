@@ -1,1 +1,1 @@
-# criar um função primaria e uma secundaria que seja um decorador @função
+# criar um função primaria e uma secundaria que seja um decorador @funçãoGIT ADD
