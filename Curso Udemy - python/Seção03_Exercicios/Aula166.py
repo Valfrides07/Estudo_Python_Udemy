@@ -1,0 +1,1 @@
+# criar um função primaria e uma secundaria que seja um decorador @função
